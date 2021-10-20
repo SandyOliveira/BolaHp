@@ -1,1 +1,2 @@
-# BolaHp
+# synchronousBallMovement
+Ball moving synchronously
